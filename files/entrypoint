@@ -1,3 +1,4 @@
+mount -va
 #!/bin/bash
 set -Eeo pipefail
 
